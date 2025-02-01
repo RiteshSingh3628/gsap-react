@@ -1,0 +1,16 @@
+/* src/index.css or src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  cursor: none; /* Hide the default cursor */
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+}
